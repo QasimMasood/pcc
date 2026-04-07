@@ -1,1 +1,3 @@
-# pcc
+# PCC
+
+Eric Matthes' Python Crash Course
