@@ -1,3 +1,3 @@
-pizzas = ['salami','peperoni','pineapple']
+pizzas = ['mushrooms', 'olives', 'pineapple']
 for pizza in pizzas:
-    print(pizza)
+    print(pizza.title())
